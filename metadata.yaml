@@ -1,0 +1,31 @@
+_repo: What-the-wind-did_72454
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    aliases:
+    - Feuvre, Amy Le
+    - Feuvre, Amy le
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: ''
+gutenberg_issued: '2023-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72454'
+language: en
+pgterms:marc905: 20231218062246lefeuvre
+pgterms:marc906: '1899'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bFleming H. Revell Company, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: What the wind did
+url: http://www.gutenberg.org/ebooks/72454
